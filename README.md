@@ -27,8 +27,8 @@ Custos is a lightweight cybersecurity dashboard for Linux that provides real-tim
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/custos-security-warden.git
-cd custos-security-warden
+git clone https://github.com/pelagornisandersi/Custos-Security-Warden.git
+cd Custos-Security-Warden
 ```
 
 ### 2. Create a Virtual Environment
